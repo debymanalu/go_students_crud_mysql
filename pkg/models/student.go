@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/davidkristia/go_students_crud_mysql/pkg/config"
+	"github.com/debymanalu/go_students_crud_mysql/pkg/config"
 
 	"github.com/jinzhu/gorm"
 )

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/davidkristia/go_students_crud_mysql/pkg/models"
-	"github.com/davidkristia/go_students_crud_mysql/pkg/utils"
+	"github.com/debymanalu/go_students_crud_mysql/pkg/models"
+	"github.com/debymanalu/go_students_crud_mysql/pkg/utils"
 	"github.com/gorilla/mux"
 )
 

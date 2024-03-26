@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/davidkristia/go_students_crud_mysql/pkg/controllers"
+	"github.com/debymanalu/go_students_crud_mysql/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
